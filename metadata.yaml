@@ -1,0 +1,33 @@
+_repo: Anson-s-Voyage-Round-the-WorldThe-Text-Reduced_16611
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Household, H. W.
+    gutenberg_agent_id: '6823'
+    url: http://www.gutenberg.org/2009/agents/6823
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walter, Richard
+    deathdate: 1785
+    gutenberg_agent_id: '6822'
+    url: http://www.gutenberg.org/2009/agents/6822
+description: ''
+gutenberg_issued: '2005-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16611'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world -- Early works to 1800'
+- !lcsh 'Anson, George Anson, Baron, 1697-1762'
+- !lcc 'G'
+title: 'Anson''s Voyage Round the World
+
+  The Text Reduced'
+url: http://www.gutenberg.org/ebooks/16611
