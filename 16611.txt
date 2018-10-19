@@ -215,7 +215,7 @@ INTRODUCTION.
 
 It was in the reign of Elizabeth that England first became the enemy of
 Spain. Rivals as yet Spain had none, whether in Europe or beyond the
-seas. There was only one great mmilitary monarchy in Europe, only one
+seas. There was only one great military monarchy in Europe, only one
 great colonising power in the New World, and that was Spain. While
 England was still slowly recovering from the prostration consequent upon
 the Wars of the Roses, and nearly a century had to run before she
@@ -823,7 +823,7 @@ passage to Madeira. But in this present run between Madeira and St.
 Catherine's we had been very sickly, so that many died, and great numbers
 were confined to their hammocks, both in our own ship and in the rest of
 the squadron; and several of these past all hopes of recovery. By our
-continuance at sea all our complaints were every day increasin, so that
+continuance at sea all our complaints were every day increasing, so that
 it was with great joy that we discovered the coast of Brazil on the 18th
 of December, at seven in the morning.
 
@@ -1012,7 +1012,7 @@ FURTHER INSTRUCTIONS--TIERRA DEL FUEGO--THE STRAITS OF LE MAIRE.
 A COUNCIL OF WAR.
 
 The Trial being nearly refitted, which was our principal occupation at
-this Bay of ST. Julian, and the sole occasion of our stay, the Commodore
+this Bay of St. Julian, and the sole occasion of our stay, the Commodore
 thought it necessary, as we were now directly bound for the South Seas
 and the enemy's coasts, to regulate the plan of his future operations.
 And therefore, on the 24th of February, a signal was made for all
@@ -1827,7 +1827,7 @@ certain indications that there had been ships at this place but a short
 time before we came there; and as all Spanish merchantmen are instructed
 to avoid the island on account of its being the common rendezvous of
 their enemies, we concluded those who had touched here to be ships of
-force; and not knowingthat Pizarro was returned to Buenos Ayres, and
+force; and not knowing that Pizarro was returned to Buenos Ayres, and
 ignorant what strength might have been fitted out at Calla, we were under
 some concern for our safety, being in so wretched and enfeebled a
 condition that, notwithstanding the rank of our ship and the sixty guns
@@ -1843,7 +1843,7 @@ and repairing our rigging.
 
 Towards the middle of August our men being indifferently recovered, they
 were permitted to quit their sick tents and to build separate huts for
-themselves; as it was imagined that by living a part they would be much
+themselves; as it was imagined that by living apart they would be much
 cleanlier, and consequently likely to recover their strength the sooner;
 but at the same time particular orders were given that on the firing of a
 gun from the ship they should instantly repair to the waterside.
@@ -2086,7 +2086,7 @@ occasioned; till at last, about the end of January, having made three
 unsuccessful attempts to double a headland which they supposed to be what
 the Spaniards called Cape Tres Montes, it was unanimously resolved to
 give over this expedition, the difficulties of which appeared
-insuperable, and to return again to wager Island, where they got back
+insuperable, and to return again to Wager Island, where they got back
 about the middle of February, quite disheartened and dejected with their
 reiterated disappointments and almost perishing with hunger and fatigue.
 
@@ -2536,7 +2536,7 @@ out our boat, and consequently could have no communication with her; so
 that we were obliged to lie to for the greatest part of forty-eight hours
 to attend her.
 
-The weather proving somewhat more dominate on the 27th, we sent our boat
+The weather proving somewhat more moderate on the 27th, we sent our boat
 for the captain of the Trial, who, when he came on board us, produced an
 instrument, signed by himself and all his officers, representing that the
 sloop, besides being dismasted, was so very leaky in her hull that even
@@ -2783,7 +2783,7 @@ Paita is itself an open place; its sole protection and defence is a small
 fort near the shore of the bay. It was of consequence to us to be well
 informed of the fabric and strength of this fort; and by the examination
 of our prisoners we found that there were eight pieces of cannon mounted
-in it, but that it had neither ditch nor out work, being only surrounded
+in it, but that it had neither ditch nor outwork, being only surrounded
 by a plain brick wall; and that the garrison consisted of only one weak
 company, but the town itself might possibly arm three hundred men more.
 
@@ -2842,7 +2842,7 @@ entrance of a narrow street, not above fifty yards distant from the
 beach, where they were covered from the fire of the fort; and being
 formed in the best manner the shortness of the time would allow, they
 immediately marched for the parade, which was a large square at the end
-of this stree, the fort being one side of the square and the Governor's
+of this street, the fort being one side of the square and the Governor's
 house another. In this march (though performed with tolerable regularity)
 the shouts and clamours of three-score sailors who had been confined so
 long on ship-board, and were now for the first time on shore in an
@@ -2872,7 +2872,7 @@ was mastered in less than a quarter of an hour's time from the first
 landing, with no other loss than that of one man killed on the spot and
 two wounded, one of whom was the Spanish pilot of the Teresa, who
 received a slight bruise by a ball which grazed on his wrist. Indeed,
-another of the company, the Honourable Mr. Keppel. son to the Earl of
+another of the company, the Honourable Mr. Keppel, son to the Earl of
 Albemarle, had a very narrow escape; for having on a jockey cap, one side
 of the peak was shaved off close to his temple by a ball, which, however,
 did him no other injury. And now Lieutenant Brett, after this success,
@@ -3056,7 +3056,7 @@ devoted for the remaining part of his life to an abject and cruel
 servitude; nore was he singular in his fears, for his companions on
 board, and indeed all the Spaniards that came into our power, had the
 same desponding opinion of their situation. Mr. Anson constantly exerted
-his utmost endeavours to efface these in human impressions they had
+his utmost endeavours to efface these inhuman impressions they had
 received of us, always taking care that as many of the principal people
 among them as there was room for should dine at his table by turns, and
 giving the strictest orders, too, that they should at all times and in
@@ -3860,7 +3860,7 @@ his officers left her and came on board the Centurion, and we immediately
 stood from the wreck, not without some apprehensions (as we had now only
 a light breeze) that, if she blew up soon, the concussion of the air
 might damage our rigging; but she fortunately burned, though very
-fiercel, the whole night, her guns firing successively as the flames
+fierce, the whole night, her guns firing successively as the flames
 reached them. And it was six in the morning, when we were about four
 leagues distant, before she blew up. The report she made upon this
 occasion was but a small one, but there was an exceeding black pillar of
@@ -4234,7 +4234,7 @@ On our coming to an anchor again after our second driving off to sea, we
 laboured indefatigably in getting in our water; and having by the 20th of
 October completed it to fifty tuns, which we supposed would be sufficient
 for our passage to Macao, we on the next day sent one of each mess on
-shore to gather as large a quantity of oranges lemons, cocoa-nuts, and
+shore to gather as large a quantity of oranges, lemons, cocoa-nuts, and
 other fruits of the island as they possibly could, for the use of
 themselves and messmates when at sea. And these purveyors returning on
 board us on the evening of the same day, we then set fire to the bark and
@@ -4377,7 +4377,7 @@ many accounts than Macao. But the peculiar customs of the Chinese, only
 adapted to the entertainment of trading ships, and the apprehensions of
 the Commodore lest he should embroil the East India Company with the
 Regency of Canton if he should insist on being treated upon a different
-footing than the merchant men, made him resolve to go first to Macao
+footing than the merchantmen, made him resolve to go first to Macao
 before he ventured into the port of Canton. Indeed, had not this reason
 prevailed with him, he himself had nothing to fear, for it is certain
 that he might have entered the port of Canton, and might have continued
@@ -4538,7 +4538,7 @@ was deprived of those refreshments which were of the utmost consequence
 to the health of his men after their long and sickly voyage; that as
 they, the mandarins, had informed themselves of his wants, and were
 eye-witnesses of the force and strength of his ship, they might be
-satisfied it was not for want of power to supply imself that he desired
+satisfied it was not for want of power to supply himself that he desired
 the permission of the Government to purchase what provisions he stood in
 need of; that they must be convinced that the Centurion alone was capable
 of destroying the whole navigation of the port of Canton, or of any other
@@ -4949,7 +4949,7 @@ considerable, that they began to fall into great disorder, especially as
 the General, who was the life of the action, was no longer capable of
 exerting himself. Their embarrassment was visible from on board the
 Commodore, for the ships were so near that some of the Spanish officers
-were seen running about with great assiduity to prevent the desirtion of
+were seen running about with great assiduity to prevent the desertion of
 their men from their quarters. But all their endeavours were in vain, for
 after having, as a last effort, fired five or six guns with more judgment
 than usual, they gave up the contest, and the galleon's colours being
